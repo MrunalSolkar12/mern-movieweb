@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.image{
+    background-image:linear-gradient(to bottom, rgba(49, 47, 47, 0.527), rgba(14, 1, 10, 0.596)),url("https://i.redd.it/eonejn8njz121.jpg");
+    background-size:100% ;
+    background-repeat: no-repeat;
+    height:85vh;
+    width:100%;
+    
+}
+
+.container a{
+  color:"black";
+  text-decoration-style: none;
+  
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+   
+   
+  }
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+@media screen and (max-width:768px) {
+.image{
+    height:45vh;
+    width:100%;
+    background-size:cover;
+    
+    
+}
+}
