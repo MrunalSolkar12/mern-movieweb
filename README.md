@@ -1,4 +1,4 @@
-This is a movie website which is in the developing stage.
+This is a movie website which is named as MOVIEWEB and is in the developing stage.
 Front end is done with React Js , Material UI.
 Backend is done with Node , Express Js.
 Database is done with Mongodb.
